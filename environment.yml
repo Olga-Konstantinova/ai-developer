@@ -1,6 +1,0 @@
-name: ai-developer
-channels:
-  - defaults
-dependencies:
-  - python=3.11
-prefix: /Users/okonstantinova/miniconda3/envs/ai-developer
